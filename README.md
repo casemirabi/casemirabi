@@ -147,8 +147,8 @@ Integração de pagamento com liberação automática de acesso em plataforma EA
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=casemirabi&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casemirabi&layout=compact" />
 </p>
 
 <p align="left">
