@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/E--mail-222?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://SEU_PORTFOLIO"><img src="https://img.shields.io/badge/Portfólio-111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bianca-melo-a92450233"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:biancamelo.bs@gmail.com"><img src="https://img.shields.io/badge/E--mail-222?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  
 </p>
 
 ---
