@@ -145,18 +145,6 @@ Integração de pagamento com liberação automática de acesso em plataforma EA
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=casemirabi&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casemirabi&layout=compact" />
-</p>
-
-<p align="left">
-  <img height="170" src="https://streak-stats.demolab.com?user=SEU_USUARIO" />
-</p>
-
----
-
 ### 🎯 Foco de evolução
 - Arquitetura de sistemas orientados a consumo
 - SaaS
